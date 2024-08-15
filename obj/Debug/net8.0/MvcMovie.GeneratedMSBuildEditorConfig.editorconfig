@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projects\dotnet\myself\Documentation\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/dotnet/myself/Documentation/MvcMovie/Views/Shared/Error.cshtml]
